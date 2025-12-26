@@ -64,5 +64,6 @@ Oyuncu uzayda hareket eden bir aracı kontrol eder ve ekranda beliren asteroidle
 -Ses efektleri
 
 -Menü ve yeniden başlatma ekranı
+```
 
 Bu proje eğitim amaçlı geliştirilmiştir.
