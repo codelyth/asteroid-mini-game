@@ -31,6 +31,13 @@ Oyuncu uzayda hareket eden bir aracı kontrol eder ve ekranda beliren asteroidle
 
 ---
 
+## 📸 Oyun Görüntüleri 
+<img width="999" height="607" alt="Ekran görüntüsü 2026-01-23 180915" src="https://github.com/user-attachments/assets/250ef5e6-dae5-44e1-873f-a723b64032db" />
+<img width="985" height="607" alt="Ekran görüntüsü 2026-01-23 181037" src="https://github.com/user-attachments/assets/a5e38986-092d-4a6e-a174-ea545b8cd5ab" />
+<img width="978" height="612" alt="Ekran görüntüsü 2026-01-23 181112" src="https://github.com/user-attachments/assets/71c01ab1-4313-4a55-92bb-7927fcdea803" />
+
+---
+
 ## ▶️ Çalıştırma
 
 ### Gereksinimler
