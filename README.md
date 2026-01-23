@@ -57,10 +57,6 @@ Oyuncu uzayda hareket eden bir aracı kontrol eder ve ekranda beliren asteroidle
 
 🚀 Geliştirilebilir Alanlar
 
--Skor sistemi eklenmesi
-
--Asteroid sayısının zamanla artması
-
 -Ses efektleri
 
 -Menü ve yeniden başlatma ekranı
